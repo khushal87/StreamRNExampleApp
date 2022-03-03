@@ -365,7 +365,7 @@ PODS:
     - React-perflogger (= 0.68.0-rc.2)
   - RNFS (2.19.0):
     - React-Core
-  - RNGestureHandler (2.2.0):
+  - RNGestureHandler (2.3.0):
     - React-Core
   - RNImageCropPicker (0.37.3):
     - React-Core
@@ -652,7 +652,7 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 37e5fa0b81067a8e487391e2816bae8813b226a5
   ReactCommon: 4c7431a20d472996669b2230f34df0115bf5dc8d
   RNFS: fc610f78fdf8bfc89a9e5cc2f898519f4dba1002
-  RNGestureHandler: bf572f552ea324acd5b5464b8d30755b2d8c1de6
+  RNGestureHandler: 77d59828d40838c9fabb76a12d2d0a80c006906f
   RNImageCropPicker: 44e2807bc410741f35d4c45b6586aedfe3da39d2
   RNReactNativeHapticFeedback: b83bfb4b537bdd78eb4f6ffe63c6884f7b049ead
   RNReanimated: 3d1432ce7b6b7fc31f375dcabe5b4585e0634a43
